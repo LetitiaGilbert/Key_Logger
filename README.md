@@ -1,7 +1,7 @@
 # Key_Logger
 The Simple Keylogger is a Python-based tool that captures and records every keystroke made on the keyboard, saving the input to a log file for later review. 
 
-**This tool should only be used in ethical, legal, and permitted contexts — such as your own system for educational or parental controls, with explicit consent. Unauthorized use can be illegal and unethical.**
+**This tool should only be used in ethical, legal, and permitted contexts, such as your own system for educational or parental controls, with explicit consent. Unauthorized use can be illegal and unethical.**
 
 FEATURES
 - Records every key pressed
